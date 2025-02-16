@@ -9,7 +9,7 @@ It is an autonomous web research assistant that continuously searches for and ex
 * Integrates multiple search APIs: **Google (SERPAPI), Bing, DuckDuckGo** for diversified results
 * Uses **semantic search techniques** to retrieve contextually relevant documents
 
-### AI-Driven Query Expansion & Filtering
+### Query Expansion & Filtering
 
 * Leverages **GPT-4/Mixtral** to generate optimized search queries
 * Uses an AI-based **credibility ranking system** for filtering low-quality sources
